@@ -18,5 +18,6 @@ A simple web project that allows students to submit feedback and teachers/admins
    http://localhost/student-feedback-system/index.html
 6. Submit a feedback and view it using view_feedback.php.
 
+## 📸 Screenshot
 
 ![WhatsApp Image 2025-07-03 at 10 18 21_c8e01696](https://github.com/user-attachments/assets/98c5d396-208b-4c90-8cbf-e100bc01ad0a)
