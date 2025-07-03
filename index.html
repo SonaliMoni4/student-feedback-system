@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Student Feedback Form</title>
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/validate.js" defer></script>
+</head>
+<body>
+  <h2>Student Feedback Form</h2>
+
+  <form action="submit_feedback.php" method="POST" onsubmit="return validateForm()">
+
+    <label for="name">Name:</label><br>
+    <input type="text" name="name" id="name" required><br><br>
+
+    <label for="usn">USN:</label><br>
+    <input type="text" name="usn" id="usn" required><br><br>
+
+    <label for="sem">Semester:</label><br>
+    <input type="number" name="sem" id="sem" min="1" max="8" required><br><br>
+
+    <label for="subject">Subject:</label><br>
+    <input type="text" name="subject" id="subject" required><br><br>
+
+    <label for="rating">Rating (1 to 5):</label><br>
+    <input type="number" name="rating" id="rating" min="1" max="5" required><br><br>
+
+    <label for="feedback">Feedback:</label><br>
+    <textarea name="feedback" id="feedback" rows="4" cols="40" required></textarea><br><br>
+
+    <input type="submit" value="Submit Feedback">
+  </form>
+</body>
+</html>
