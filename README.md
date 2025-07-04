@@ -20,4 +20,5 @@ A simple web project that allows students to submit feedback and teachers/admins
 
 ## 📸 Screenshot
 
-![WhatsApp Image 2025-07-03 at 10 18 21_c8e01696](https://github.com/user-attachments/assets/98c5d396-208b-4c90-8cbf-e100bc01ad0a)
+![WhatsApp Image 2025-07-04 at 11 28 07_f19a5cf1](https://github.com/user-attachments/assets/a9af9c30-72ba-4296-bfb7-a34a0d5359ea)
+
